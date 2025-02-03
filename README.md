@@ -135,7 +135,10 @@
 | Python | [https://www.dailydoseofds.com/p/pandas-vs-fireducks-performance-comparison/](https://www.dailydoseofds.com/p/pandas-vs-fireducks-performance-comparison/) | Pands Vs Fireducks |
 
 
-
+## Significant Papers in GenAI Pre-training and Fine-tuning
+| Paper  | Link  | Description  |
+|:----------|:----------|:----------|
+| Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation | https://arxiv.org/abs/2108.12409  https://github.com/ofirpress/attention_with_linear_biases.git | A training technique in Language Models to intensify their generalization ability |
 
 
 ## Contributing
