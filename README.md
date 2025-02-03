@@ -123,6 +123,8 @@
 | Apps | [https://github.com/BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files |
 | Apps | [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui) | Open-source web UI for LLM, Ollama |
 | Apps | [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | diffusion model GUI, api with a nodes interface |
+| Apps | [https://python.langchain.com/docs/introduction](https://python.langchain.com/docs/introduction) | LLM agent development framework |
+| Apps | [https://docs.streamlit.io/](https://docs.streamlit.io/) | Robust development framework for LLM deployment |
 
 
 
