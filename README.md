@@ -83,7 +83,7 @@
 
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
-| Guardrails | TBD | TBD |
+| Guardrails | [https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-are-ai-guardrails](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-are-ai-guardrails) | Overview of guardrails: definition, utility, implementation ideas, deployment |
 
 ### Benchmarking
 
