@@ -54,6 +54,8 @@
 
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
+| RAG | [https://piotr-jurowiec.medium.com/retrieval-augmented-generation-in-business-applications-enhancing-efficiency-and-innovation-3c3886c88705](https://piotr-jurowiec.medium.com/retrieval-augmented-generation-in-business-applications-enhancing-efficiency-and-innovation-3c3886c88705) | Article: Retrieval-Augmented Generation in Business Applications |
+| RAG | [https://arxiv.org/abs/2404.17723](https://arxiv.org/abs/2404.17723) | Paper: A Recent Study on RAG in NLP |
 | RAG | [https://arxiv.org/pdf/2005.11401](https://arxiv.org/pdf/2005.11401) | Paper: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks |
 | RAG | [https://arxiv.org/pdf/2412.15605v1](https://arxiv.org/pdf/2412.15605v1) | Paper: Cache-augmented generation (CAG) as an alternative to RAG |
 | RAG | [https://arxiv.org/pdf/2401.15884](https://arxiv.org/pdf/2401.15884) | Paper: Corrective Retrieval Augmented Generation |
