@@ -98,6 +98,7 @@
 | Fine-tuning | [https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollama](https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollama)| Fine-tuning LLMs with Unsloth.ai |
 | Fine-tuning | [https://www.kaggle.com/code/iamleonie/fine-tuning-gemma-2-jpn-for-yomigana-with-lora](https://www.kaggle.com/code/iamleonie/fine-tuning-gemma-2-jpn-for-yomigana-with-lora)| Fine-tuning Gemma 2 JPN for Yomigana using LoRA |
 | Fine-tuning | [https://www.youtube.com/watch?v=b80by3Xk_A8](https://www.youtube.com/watch?v=b80by3Xk_A8)| Stanford’s Hugging Face Transformers fine-tuning course |
+| Fine-tuning | [https://ieeexplore.ieee.org/document/10596333](https://ieeexplore.ieee.org/document/10596333)| This paper analyzes the runtime, memory, and energy efficiency of five fine-tuning optimizations, proposing a multi-dimensional evaluation framework (SpeedUp, MemoryUp, EnergyUp) and demonstrating that no single optimization excels in all dimensions. |
 
 ### Responsible AI
 
