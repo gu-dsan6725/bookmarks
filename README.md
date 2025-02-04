@@ -67,6 +67,7 @@
 | RAG | [https://arxiv.org/pdf/2412.15605v1](https://arxiv.org/pdf/2412.15605v1) | Cache-augmented generation (CAG) as an alternative to RAG |
 | RAG | [https://div.beehiiv.com/](https://div.beehiiv.com/) | Great Blog Series on RAG, Agents, and Other Cutting-Edge Gen-AI Topics |
 | RAG | [https://www.anthropic.com/news/contextual-retrieval](https://www.anthropic.com/news/contextual-retrieval) | Introducing Contextual Retrieval |
+| RAG | [https://arxiv.org/pdf/2312.10997](https://arxiv.org/pdf/2312.10997) | Retrieval-Augmented Generation for Large Language Models: A Survey |
 
 ### Agents
 | Category  | Link  | Description  |
