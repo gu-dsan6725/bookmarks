@@ -48,7 +48,7 @@
 | Prompt engineering | [https://docs.aws.amazon.com/nova/latest/userguide/prompting.html](https://docs.aws.amazon.com/nova/latest/userguide/prompting.html) | Prompt engineering best practices for Amazon Nova |
 | Prompt engineering | [https://ibm.github.io/watsonx-prompt-lab/lab-1/](https://ibm.github.io/watsonx-prompt-lab/lab-1/) | Prompt engineering best practices for watsonx.ai |
 | Prompt engineering | [https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file](https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file) | Prompt engineering guide |
-
+| Prompt engineering | [https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api) | Best practices for prompt engineering with the OpenAI API |
 
 ### RAG
 
