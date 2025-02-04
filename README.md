@@ -83,7 +83,9 @@
 
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
-| Guardrails | TBD | TBD |
+| Guardrails | [https://github.com/ShreyaR/guardrails](https://github.com/ShreyaR/guardrails) | Python package for LLM filtering to prevent generating bad content  |
+| Guardrails | [https://www.microsoft.com/en-us/ai/responsible-ai](https://www.microsoft.com/en-us/ai/responsible-ai) | Empowering responsible AI practices |
+
 
 ### Benchmarking
 
