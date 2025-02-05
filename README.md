@@ -37,7 +37,6 @@
 | LLM Basics | [https://arxiv.org/abs/2501.00663](https://arxiv.org/abs/2501.00663) | Neural memory module for long-term sequence modeling|
 | LLM Basics | [https://x.com/Aurimas_Gr/status/1876635530302992875](https://x.com/Aurimas_Gr/status/1876635530302992875) | Neural memory module for long-term sequence modeling|
 
-
 ### Prompt engineering
 
 | Category  | Link  | Description  |
@@ -77,7 +76,7 @@
 | Agents | [https://github.com/inferablehq](https://github.com/inferablehq) | Open-source platform for building agentic automations |
 | Agents | [https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part](https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part) | Guide to building AI agents from scratch |
 | Agents | [https://huyenchip.com//2025/01/07/agents.html](https://huyenchip.com//2025/01/07/agents.html) | Overview of intelligent AI agents, tools, and planning |
-
+| Agents | https://github.com/microsoft/AutoGen| Open-source library for building LLM agents.|
 
 ### Guardrails
 
@@ -123,7 +122,7 @@
 | Apps | [https://github.com/BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files |
 | Apps | [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui) | Open-source web UI for LLM, Ollama |
 | Apps | [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | diffusion model GUI, api with a nodes interface |
-
+| Apps | https://github.com/chatscope/chat-ui-kit-react | React-based chat UI kit for building LLM apps |
 
 
 
