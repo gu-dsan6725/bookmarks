@@ -36,6 +36,7 @@
 | LLM Basics | [https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/](https://stackoverflow.blog/2023/11/09/an-intuitive-introduction-to-text-embeddings/) | Introduction to text embeddings|
 | LLM Basics | [https://arxiv.org/abs/2501.00663](https://arxiv.org/abs/2501.00663) | Neural memory module for long-term sequence modeling|
 | LLM Basics | [https://x.com/Aurimas_Gr/status/1876635530302992875](https://x.com/Aurimas_Gr/status/1876635530302992875) | Neural memory module for long-term sequence modeling|
+| LLM Basics | [https://www.youtube.com/watch?v=h9Z4oGN89MU&t=663s](https://www.youtube.com/watch?v=h9Z4oGN89MU&t=663s) | Exploring GPU Architecture |
 
 
 ### Prompt engineering
@@ -133,6 +134,7 @@
 |:----------|:----------|:----------|
 | Git | [https://x.com/ChShersh/status/1875495972593131561](https://x.com/ChShersh/status/1875495972593131561) | A very short list of useful `git` commands |
 | Python | [https://www.dailydoseofds.com/p/pandas-vs-fireducks-performance-comparison/](https://www.dailydoseofds.com/p/pandas-vs-fireducks-performance-comparison/) | Pands Vs Fireducks |
+| Deepseek | [https://github.com/deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | Open-source AI code generation model |
 
 
 
