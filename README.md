@@ -125,6 +125,8 @@
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
 | Benchmarking | [https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-2](https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-2)| Summary of influential AI research papers from 2024 |
+| Benchmarking | [https://arxiv.org/abs/2306.05685](https://arxiv.org/abs/2306.05685) | Multi-turn dialogue evaluation benchmark for LLMs |
+| Benchmarking | [https://github.com/EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) | EleutherAI’s framework for evaluating language models |
 
 ### Fine-tuning
 
