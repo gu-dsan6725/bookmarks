@@ -115,6 +115,9 @@
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
 | Benchmarking | [https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-2](https://magazine.sebastianraschka.com/p/ai-research-papers-2024-part-2)| Summary of influential AI research papers from 2024 |
+| Benchmarking | [https://crfm.stanford.edu/helm/lite/latest/](https://crfm.stanford.edu/helm/lite/latest/)| Stanford's Hugging Face Transformers benchmarking tool |
+| Benchmarking | [https://github.com/google/BIG-bench](https://github.com/google/BIG-bench)|A collaborative benchmark for evaluating large language models |
+
 
 ### Fine-tuning
 
