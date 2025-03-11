@@ -148,6 +148,7 @@
 | Responsible AI | [https://www.aisnakeoil.com/](https://www.aisnakeoil.com/)| Debunking AI hype |
 | Responsible AI | [https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai](https://learn.microsoft.com/en-us/azure/machine-learning/concept-responsible-ai)| Overview of Microsoft's Responsible AI framework |
 | Responsible AI | [https://oecd.ai/en/ai-principles](https://oecd.ai/en/ai-principles)| OECD AI Principles |
+| Health and AI: Advancing responsible and ethical AI for all communities | [https://www.brookings.edu/articles/health-and-ai-advancing-responsible-and-ethical-ai-for-all-communities/#introduction-121](https://www.brookings.edu/articles/health-and-ai-advancing-responsible-and-ethical-ai-for-all-communities/#introduction-121)| Brookings Institute |
 
 ### Apps
 
