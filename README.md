@@ -79,6 +79,8 @@
 | RAG | [https://aws.amazon.com/what-is/retrieval-augmented-generation/](https://aws.amazon.com/what-is/retrieval-augmented-generation/) | AWS Introduction to RAG |
 | RAG | [https://arxiv.org/pdf/2312.10997](https://arxiv.org/pdf/2312.10997) | Retrieval-Augmented Generation for Large Language Models: A Survey |
 
+| RAG | [https://github.com/aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router) | Semantic router |
+
 
 
 ### Agents
