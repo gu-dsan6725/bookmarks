@@ -78,7 +78,7 @@
 | Agents | [https://github.com/inferablehq](https://github.com/inferablehq) | Open-source platform for building agentic automations |
 | Agents | [https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part](https://www.newsletter.swirlai.com/p/building-ai-agents-from-scratch-part) | Guide to building AI agents from scratch |
 | Agents | [https://huyenchip.com//2025/01/07/agents.html](https://huyenchip.com//2025/01/07/agents.html) | Overview of intelligent AI agents, tools, and planning |
-
+| Agents | [https://github.com/kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) |Comprehensive list of AI Agents tools and autonomous frameworks|
 
 ### Guardrails
 
