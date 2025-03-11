@@ -99,6 +99,7 @@
 | Agents | [https://www.letta.com/blog/ai-agents-stack](https://www.letta.com/blog/ai-agents-stack) | The Agents Stack |
 | Agents | [https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP](https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP) | Demystifying AI Agents: A Guide for Beginners |
 | Agents | [https://arxiv.org/pdf/2308.08155](https://arxiv.org/pdf/2308.08155) | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation |
+| Agents | [https://github.blog/ai-and-ml/generative-ai/what-are-ai-agents-and-why-do-they-matter/](https://github.blog/ai-and-ml/generative-ai/what-are-ai-agents-and-why-do-they-matter/) | Agentic AI Systems: Evolution, Key Characteristics, and Challeneges |
 
 
 ### Guardrails
