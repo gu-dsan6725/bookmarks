@@ -138,7 +138,7 @@
 | Fine-tuning | [https://arxiv.org/abs/2502.06807](https://arxiv.org/abs/2502.06807) | Large reasoning models: Generalized vs Domain-specific |
 | Fine-tuning | [https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-GRPO.ipynb](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-GRPO.ipynb) | Using GRPO RL algorithm to train LLama-3.1 |
 | Fine-tuning | [https://huggingface.co/learn/cookbook/en/fine_tuning_code_llm_on_single_gpu](https://huggingface.co/learn/cookbook/en/fine_tuning_code_llm_on_single_gpu)| Fine-tuning a Code LLM on Custom Code on a single GPU |
-| Fine-tuning | [https://developers.google.com/machine-learning/crash-course/llm/tuning](https://developers.google.com/machine-learning/crash-course/llm/tuning) | Google’s Machine Learning Crash Course on LLM Fine-tuning |
+| Fine-tuning | [https://developers.google.com/machine-learning/crash-course/llm/tuning](https://developers.google.com/machine-learning/crash-course/llm/tuning) | Google’s Machine Learning Crash-Course on LLM Fine-tuning |
 
 
 
