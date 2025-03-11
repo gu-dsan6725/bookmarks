@@ -16,20 +16,21 @@
 
 ## Table of Contents
 
-1. [Gen-AI](#gen-ai)
-   - [LLM Basics](#llm-basics)
-   - [Prompt Engineering](#prompt-engineering)
-   - [RAG](#rag)
-   - [Agents](#agents)
-   - [Guardrails](#guardrails)
-   - [Benchmarking](#benchmarking)
-   - [Fine-tuning](#fine-tuning)
-   - [Responsible AI](#responsible-ai)
-   - [Apps](#apps)
-1. [Others](#others)
-1. [Significant Papers](#significant-papers)
-1. [Contributing](#contributing)
-1. [License](#license)
+- [Table of Contents](#table-of-contents)
+- [Gen-AI](#gen-ai)
+  - [LLM Basics](#llm-basics)
+  - [Prompt engineering](#prompt-engineering)
+  - [RAG](#rag)
+  - [Agents](#agents)
+  - [Guardrails](#guardrails)
+  - [Benchmarking](#benchmarking)
+  - [Fine-tuning](#fine-tuning)
+  - [Responsible AI](#responsible-ai)
+  - [Apps](#apps)
+- [Others](#others)
+- [Significant Papers](#significant-papers)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Gen-AI
 
@@ -169,6 +170,7 @@
 | Apps | [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | diffusion model GUI, api with a nodes interface |
 | Apps | [https://github.com/chatscope/chat-ui-kit-react](https://github.com/chatscope/chat-ui-kit-react) | React-based chat UI kit for building LLM apps |
 | Apps | [https://link-springer-com.proxy.library.georgetown.edu/article/10.1007/s10639-024-12537-x](https://link-springer-com.proxy.library.georgetown.edu/article/10.1007/s10639-024-12537-x) | Using GPT to generate math word problems with difficulty levels |
+| Apps | [https://www-sciencedirect-com.proxy.library.georgetown.edu/science/article/pii/S2666920X23000401](https://www-sciencedirect-com.proxy.library.georgetown.edu/science/article/pii/S2666920X23000401) | Automated reading passage generation with OpenAI's large language model |
 
 
 
