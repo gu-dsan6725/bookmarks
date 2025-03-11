@@ -16,20 +16,21 @@
 
 ## Table of Contents
 
-1. [Gen-AI](#gen-ai)
-   - [LLM Basics](#llm-basics)
-   - [Prompt Engineering](#prompt-engineering)
-   - [RAG](#rag)
-   - [Agents](#agents)
-   - [Guardrails](#guardrails)
-   - [Benchmarking](#benchmarking)
-   - [Fine-tuning](#fine-tuning)
-   - [Responsible AI](#responsible-ai)
-   - [Apps](#apps)
-1. [Others](#others)
-1. [Significant Papers](#significant-papers)
-1. [Contributing](#contributing)
-1. [License](#license)
+- [Table of Contents](#table-of-contents)
+- [Gen-AI](#gen-ai)
+  - [LLM Basics](#llm-basics)
+  - [Prompt engineering](#prompt-engineering)
+  - [RAG](#rag)
+  - [Agents](#agents)
+  - [Guardrails](#guardrails)
+  - [Benchmarking](#benchmarking)
+  - [Fine-tuning](#fine-tuning)
+  - [Responsible AI](#responsible-ai)
+  - [Apps](#apps)
+- [Others](#others)
+- [Significant Papers](#significant-papers)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Gen-AI
 
@@ -186,7 +187,7 @@
 |:----------|:----------|:----------|
 | Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation | [Paper](https://arxiv.org/abs/2108.12409) • [GitHub](https://github.com/ofirpress/attention_with_linear_biases.git) | A training technique in Language Models to intensify their generalization ability |
 | FLAG-Trader: Fusion LLM-Agent with Gradient-based Reinforcement Learning for Financial Trading | [Paper](https://arxiv.org/abs/2502.11433) | This paper mainly focuses on the financial domain, using LLMs as agents with gradient-driven RL policy optimization for autonomous decision-making. |
-
+| Attention Is All You Need | [Paper](https://arxiv.org/abs/1706.03762)| The paper that introduced the Transformer architecture, revolutionizing deep learning |
 
 ## Contributing
 
