@@ -7,16 +7,27 @@
 
   <p>
     <a href="#gen-ai">Gen-AI</a> •
-    <a href="#other-topics">Others</a> •    
+    <a href="#others">Others</a> •    
+    <a href="#significant-papers">Significant Papers</a> •
     <a href="#contributing">Contributing</a> •
     <a href="#license">License</a>
-  </p>
+</p>
 </div>
 
 ## Table of Contents
 
 1. [Gen-AI](#gen-ai)
+   - [LLM Basics](#llm-basics)
+   - [Prompt Engineering](#prompt-engineering)
+   - [RAG](#rag)
+   - [Agents](#agents)
+   - [Guardrails](#guardrails)
+   - [Benchmarking](#benchmarking)
+   - [Fine-tuning](#fine-tuning)
+   - [Responsible AI](#responsible-ai)
+   - [Apps](#apps)
 1. [Others](#others)
+1. [Significant Papers](#significant-papers)
 1. [Contributing](#contributing)
 1. [License](#license)
 
@@ -151,7 +162,7 @@ Fork this repo and submit a PR to get any link you would like to get included in
 ## License
 
 This library is licensed under the MIT-0 License. See the [`LICENSE`](./LICENSE) file.
-=======
+
 <div align="center">
   <h1>🚀 Bookmarks for DSAN-6725</h1>
   <p>
@@ -191,9 +202,13 @@ This library is licensed under the MIT-0 License. See the [`LICENSE`](./LICENSE)
 | LLM Basics | [https://arxiv.org/abs/2501.00663](https://arxiv.org/abs/2501.00663) | Neural memory module for long-term sequence modeling|
 | LLM Basics | [https://x.com/Aurimas_Gr/status/1876635530302992875](https://x.com/Aurimas_Gr/status/1876635530302992875) | Neural memory module for long-term sequence modeling|
 | LLM Basics| [https://poloclub.github.io/transformer-explainer/] (https://poloclub.github.io/transformer-explainer/) | Interactive visualization tool explaining LLM Transformer architecture|
+| LLM Basics | [https://arxiv.org/abs/2501.00663](https://arxiv.org/abs/2501.00663) | Paper on neural memory modules for improving long-term sequence retention |
+| LLM Basics | [https://x.com/Aurimas_Gr/status/1876635530302992875](https://x.com/Aurimas_Gr/status/1876635530302992875) | Discussion on practical applications of neural memory in LLMs |
+| LLM Basics| [https://poloclub.github.io/transformer-explainer/](https://poloclub.github.io/transformer-explainer/) | Interactive visualization tool explaining LLM Transformer architecture|
 | LLM Basics | [https://www.youtube.com/watch?v=h9Z4oGN89MU&t=663s](https://www.youtube.com/watch?v=h9Z4oGN89MU&t=663s) | Exploring GPU Architecture |
 | LLM Basics | [https://arxiv.org/pdf/2501.09636](https://arxiv.org/pdf/2501.09636) | Deployment of the mixture-of-experts mechanism in the stock investment domain|
 | LLM Basics | [https://github.com/vllm-project/aibrix/blob/main/docs/paper/AIBrix_White_Paper_0219_2025.pdf](https://github.com/vllm-project/aibrix/blob/main/docs/paper/AIBrix_White_Paper_0219_2025.pdf) | Scalable, Cost Effective LLM Inference Infrastructure |
+| LLM Basics | [https://towardsdatascience.com/all-you-need-to-know-to-develop-using-large-language-models-5c45708156bc/](https://towardsdatascience.com/all-you-need-to-know-to-develop-using-large-language-models-5c45708156bc/) | Introduces key overviews of LLM development concepts|
 
 
 
@@ -217,7 +232,6 @@ This library is licensed under the MIT-0 License. See the [`LICENSE`](./LICENSE)
 | RAG | [https://piotr-jurowiec.medium.com/retrieval-augmented-generation-in-business-applications-enhancing-efficiency-and-innovation-3c3886c88705](https://piotr-jurowiec.medium.com/retrieval-augmented-generation-in-business-applications-enhancing-efficiency-and-innovation-3c3886c88705) | Article: Retrieval-Augmented Generation in Business Applications |
 | RAG | [https://arxiv.org/abs/2404.17723](https://arxiv.org/abs/2404.17723) | Paper: A Recent Study on RAG in NLP |
 | RAG | [https://arxiv.org/pdf/2005.11401](https://arxiv.org/pdf/2005.11401) | Paper: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks |
-| RAG | [https://arxiv.org/pdf/2412.15605v1](https://arxiv.org/pdf/2412.15605v1) | Paper: Cache-augmented generation (CAG) as an alternative to RAG |
 | RAG | [https://arxiv.org/pdf/2401.15884](https://arxiv.org/pdf/2401.15884) | Paper: Corrective Retrieval Augmented Generation |
 | RAG | [https://arxiv.org/html/2409.13731v3](https://arxiv.org/html/2409.13731v3) | Paper: KAG: Boosting LLMs in Professional Domains via Knowledge Augmented Generation |
 | RAG | [https://x.com/akshay_pachaar/status/1875520939536142656](https://x.com/akshay_pachaar/status/1875520939536142656) | Traditional RAG Vs Graph RAG |
@@ -231,10 +245,8 @@ This library is licensed under the MIT-0 License. See the [`LICENSE`](./LICENSE)
 | RAG | [https://www.anthropic.com/news/contextual-retrieval](https://www.anthropic.com/news/contextual-retrieval) | Introducing Contextual Retrieval |
 | RAG | [https://github.blog/ai-and-ml/generative-ai/what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/] | Use of RAG in Gen AI |
 | RAG | [https://docs.llamaindex.ai/en/stable/](https://docs.llamaindex.ai/en/stable/) | LlamaIndex simplifies data integration for LLMs and enables efficient search for RAG applications. |
-| RAG | [https://arxiv.org/pdf/2312.10997v3.pdf](https://arxiv.org/pdf/2312.10997v3.pdf) | Retrieval-Augmented Generation for Large Language Models: A Survey |
-| RAG | [https://arxiv.org/pdf/2312.10997v3.pdf](https://arxiv.org/pdf/2312.10997v3.pdf) | Retrieval-Augmented Generation for Large Language Models: A Survey |
 | RAG | [https://aws.amazon.com/what-is/retrieval-augmented-generation/](https://aws.amazon.com/what-is/retrieval-augmented-generation/) | AWS Introduction to RAG |
-| RAG | [https://arxiv.org/pdf/2312.10997](https://arxiv.org/pdf/2312.10997) | Retrieval-Augmented Generation for Large Language Models: A Survey |
+| RAG | [https://arxiv.org/pdf/2312.10997v3.pdf](https://arxiv.org/pdf/2312.10997v3.pdf) | Retrieval-Augmented Generation for Large Language Models: A Survey |
 
 
 ### Agents
@@ -248,7 +260,7 @@ This library is licensed under the MIT-0 License. See the [`LICENSE`](./LICENSE)
 | Agents | [https://huyenchip.com//2025/01/07/agents.html](https://huyenchip.com//2025/01/07/agents.html) | Overview of intelligent AI agents, tools, and planning |
 | Agents | [https://github.com/AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops?tab=readme-ov-file) | Building, evaluating, monitoring, and benchmarking AI agents through dashboards |
 | Agents | [https://arxiv.org/pdf/2401.03568](https://arxiv.org/pdf/2401.03568) | Agent AI: Surveying the Horizons of Multimodal Interaction |
-| Agents | https://github.com/microsoft/AutoGen| Open-source library for building LLM agents.|
+| Agents | [https://github.com/microsoft/AutoGen](https://github.com/microsoft/AutoGen)| Open-source library for building LLM agents.|
 | Agents | [https://github.com/huggingface/smolagents](https://github.com/huggingface/smolagents) | Build agents with a simple framework with the logic for agents fitting in ~thousand lines of code |
 | Agents | [https://medium.com/@thomas.latterner/ai-agents-what-are-they-50ced8323b9a](https://medium.com/@thomas.latterner/ai-agents-what-are-they-50ced8323b9a) | Overview of AI Agents |
 | Agents | [https://www.letta.com/blog/ai-agents-stack](https://www.letta.com/blog/ai-agents-stack) | The Agents Stack |
@@ -278,7 +290,7 @@ This library is licensed under the MIT-0 License. See the [`LICENSE`](./LICENSE)
 | Fine-tuning | [https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollama](https://docs.unsloth.ai/basics/tutorial-how-to-finetune-llama-3-and-use-in-ollama)| Fine-tuning LLMs with Unsloth.ai |
 | Fine-tuning | [https://www.kaggle.com/code/iamleonie/fine-tuning-gemma-2-jpn-for-yomigana-with-lora](https://www.kaggle.com/code/iamleonie/fine-tuning-gemma-2-jpn-for-yomigana-with-lora)| Fine-tuning Gemma 2 JPN for Yomigana using LoRA |
 | Fine-tuning | [https://www.youtube.com/watch?v=b80by3Xk_A8](https://www.youtube.com/watch?v=b80by3Xk_A8)| Stanford’s Hugging Face Transformers fine-tuning course |
-| Fine-tuning | [https://www.sciencedirect.com/science/article/pii/S0950584924001289](https://www.sciencedirect.com/science/article/pii/S0950584924001289)| Automating Fine-tuning of LLM's using Prompt Engineering Techniques |
+| Fine-tuning | [https://www.sciencedirect.com/science/article/pii/S0950584924001289](https://www.sciencedirect.com/science/article/pii/S0950584924001289)| Automating Fine-tuning of LLMs using Prompt Engineering Techniques |
 | Fine-tuning | [https://arxiv.org/abs/2310.00035](https://arxiv.org/abs/2310.00035)| Usage of LoRA for LLM fine-tuning |
 | Fine-tuning | [https://arxiv.org/abs/2502.06807](https://arxiv.org/abs/2502.06807) | Large reasoning models: Generalized vs Domain-specific |
 | Fine-tuning | [https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-GRPO.ipynb](https://colab.research.google.com/github/unslothai/notebooks/blob/main/nb/Llama3.1_(8B)-GRPO.ipynb) | Using GRPO RL algorithm to train LLama-3.1 |
@@ -312,7 +324,7 @@ This library is licensed under the MIT-0 License. See the [`LICENSE`](./LICENSE)
 | Apps | [https://github.com/BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) | Crawl a site to generate knowledge files |
 | Apps | [https://github.com/open-webui/open-webui](https://github.com/open-webui/open-webui) | Open-source web UI for LLM, Ollama |
 | Apps | [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | diffusion model GUI, api with a nodes interface |
-| Apps | https://github.com/chatscope/chat-ui-kit-react | React-based chat UI kit for building LLM apps |
+| Apps | [https://github.com/chatscope/chat-ui-kit-react](https://github.com/chatscope/chat-ui-kit-react) | React-based chat UI kit for building LLM apps |
 | Apps | [https://link-springer-com.proxy.library.georgetown.edu/article/10.1007/s10639-024-12537-x](https://link-springer-com.proxy.library.georgetown.edu/article/10.1007/s10639-024-12537-x) | Using GPT to generate math word problems with difficulty levels |
 
 
@@ -322,15 +334,15 @@ This library is licensed under the MIT-0 License. See the [`LICENSE`](./LICENSE)
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
 | Git | [https://x.com/ChShersh/status/1875495972593131561](https://x.com/ChShersh/status/1875495972593131561) | A very short list of useful `git` commands |
-| Python | [https://www.dailydoseofds.com/p/pandas-vs-fireducks-performance-comparison/](https://www.dailydoseofds.com/p/pandas-vs-fireducks-performance-comparison/) | Pands Vs Fireducks |
+| Python | [https://www.dailydoseofds.com/p/pandas-vs-fireducks-performance-comparison/](https://www.dailydoseofds.com/p/pandas-vs-fireducks-performance-comparison/) | Pandas Vs Fireducks |
 | Deepseek | [https://github.com/deepseek-ai/DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder) | Open-source AI code generation model |
 
 
-## Significant Papers in GenAI Pre-training and Fine-tuning
+## Significant Papers
 | Paper  | Link  | Description  |
 |:----------|:----------|:----------|
-| Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation | https://arxiv.org/abs/2108.12409  https://github.com/ofirpress/attention_with_linear_biases.git | A training technique in Language Models to intensify their generalization ability |
-| FLAG-Trader: Fusion LLM-Agent with Gradient-based Reinforcement Learning for Financial Trading | https://arxiv.org/abs/2502.11433, their model gonna released on huggingface later | This paper mainly focus on the finaical area which used LLM as agent with gradient-driven RL policy optimization to make autonomous decision-making.
+| Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation | [Paper](https://arxiv.org/abs/2108.12409) • [GitHub](https://github.com/ofirpress/attention_with_linear_biases.git) | A training technique in Language Models to intensify their generalization ability |
+| FLAG-Trader: Fusion LLM-Agent with Gradient-based Reinforcement Learning for Financial Trading | [Paper](https://arxiv.org/abs/2502.11433) | This paper mainly focuses on the financial domain, using LLMs as agents with gradient-driven RL policy optimization for autonomous decision-making. |
 
 
 ## Contributing
@@ -338,7 +350,7 @@ This library is licensed under the MIT-0 License. See the [`LICENSE`](./LICENSE)
 Fork this repo and submit a PR to get any link you would like to get included into this repo. Follow these instructions while making contributions:
 
 1. Add your contribution as a line in the markdown table, make sure to view the rendered README to confirm that the table formatting is not broken.
-1. Make sure that you put an appropriate value in the `Cateogry` field and useful information in the `Description` field (the description should not exceed 10-words).
+1. Make sure that you put an appropriate value in the `Category` field and useful information in the `Description` field (the description should not exceed 10 words).
 1. If you are using an existing `Category` then add your line just after the last line in that `Category`'s table. If you want to add a new category then create a new section for it similar to the other sections.
 1. Prefer adding actionable content such as a code sample or a blog post with code. If you are adding a link to a paper then also include a link to its associated GitHub code repo.
 
