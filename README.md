@@ -78,6 +78,7 @@
 
 | RAG | [https://aws.amazon.com/what-is/retrieval-augmented-generation/](https://aws.amazon.com/what-is/retrieval-augmented-generation/) | AWS Introduction to RAG |
 | RAG | [https://arxiv.org/pdf/2312.10997](https://arxiv.org/pdf/2312.10997) | Retrieval-Augmented Generation for Large Language Models: A Survey |
+| RAG | [https://arxiv.org/abs/2409.13694](https://arxiv.org/abs/2409.13694) | Multi-Source Knowledge Pruning for Retrieval-Augmented Generation: A Benchmark and Empirical Study |
 
 
 
@@ -104,6 +105,9 @@
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
 | Guardrails | [https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-are-ai-guardrails](https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-are-ai-guardrails) | Overview of guardrails: definition, utility, implementation ideas, deployment |
+| Guardrails | [https://dl.acm.org/doi/full/10.1145/3674845](https://dl.acm.org/doi/full/10.1145/3674845) | Building Guardrails in AI Systems with Threat Modeling
+ |
+
 
 ### Benchmarking
 
