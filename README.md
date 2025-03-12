@@ -67,6 +67,8 @@
 | Prompt engineering | [https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file](https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file) | Prompt engineering guide |
 | Prompt engineering | [https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api) | Best practices for prompt engineering with the OpenAI API |
 | Prompt engineering | [https://medium.com/@fareedkhandev/prompt-engineering-complete-guide-2968776f0431](https://medium.com/@fareedkhandev/prompt-engineering-complete-guide-2968776f0431) | Alternative prompt engineering guide |
+| Prompt engineering | [https://arxiv.org/pdf/2310.14735](https://arxiv.org/pdf/2310.14735) | Unleashing the potential of prompt engineering in Large Language Models: a comprehensive review |
+
 
 ### RAG
 
