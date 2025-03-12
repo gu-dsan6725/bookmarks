@@ -16,20 +16,21 @@
 
 ## Table of Contents
 
-1. [Gen-AI](#gen-ai)
-   - [LLM Basics](#llm-basics)
-   - [Prompt Engineering](#prompt-engineering)
-   - [RAG](#rag)
-   - [Agents](#agents)
-   - [Guardrails](#guardrails)
-   - [Benchmarking](#benchmarking)
-   - [Fine-tuning](#fine-tuning)
-   - [Responsible AI](#responsible-ai)
-   - [Apps](#apps)
-1. [Others](#others)
-1. [Significant Papers](#significant-papers)
-1. [Contributing](#contributing)
-1. [License](#license)
+- [Table of Contents](#table-of-contents)
+- [Gen-AI](#gen-ai)
+  - [LLM Basics](#llm-basics)
+  - [Prompt engineering](#prompt-engineering)
+  - [RAG](#rag)
+  - [Agents](#agents)
+  - [Guardrails](#guardrails)
+  - [Benchmarking](#benchmarking)
+  - [Fine-tuning](#fine-tuning)
+  - [Responsible AI](#responsible-ai)
+  - [Apps](#apps)
+- [Others](#others)
+- [Significant Papers](#significant-papers)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Gen-AI
 
@@ -90,6 +91,7 @@
 | RAG | [https://docs.llamaindex.ai/en/stable/](https://docs.llamaindex.ai/en/stable/) | LlamaIndex simplifies data integration for LLMs and enables efficient search for RAG applications. |
 | RAG | [https://aws.amazon.com/what-is/retrieval-augmented-generation/](https://aws.amazon.com/what-is/retrieval-augmented-generation/) | AWS Introduction to RAG |
 | RAG | [https://arxiv.org/pdf/2312.10997v3.pdf](https://arxiv.org/pdf/2312.10997v3.pdf) | Retrieval-Augmented Generation for Large Language Models: A Survey |
+| RAG | [https://www.youtube.com/watch?v=GDN649X_acE](https://www.youtube.com/watch?v=GDN649X_acE) | Encoder-Only Transformers (like BERT) for RAG, Clearly Explained!!! |
 
 
 ### Agents
