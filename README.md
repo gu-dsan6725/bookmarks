@@ -109,6 +109,7 @@
 | Agents | [https://www.letta.com/blog/ai-agents-stack](https://www.letta.com/blog/ai-agents-stack) | The Agents Stack |
 | Agents | [https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP](https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP) | Demystifying AI Agents: A Guide for Beginners |
 | Agents | [https://arxiv.org/pdf/2308.08155](https://arxiv.org/pdf/2308.08155) | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation |
+| Agents | [https://arxiv.org/abs/2501.03151](https://arxiv.org/abs/2501.03151) | Large language models for artificial general intelligence |
 
 
 ### Guardrails
@@ -169,6 +170,7 @@
 | Apps | [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) | diffusion model GUI, api with a nodes interface |
 | Apps | [https://github.com/chatscope/chat-ui-kit-react](https://github.com/chatscope/chat-ui-kit-react) | React-based chat UI kit for building LLM apps |
 | Apps | [https://link-springer-com.proxy.library.georgetown.edu/article/10.1007/s10639-024-12537-x](https://link-springer-com.proxy.library.georgetown.edu/article/10.1007/s10639-024-12537-x) | Using GPT to generate math word problems with difficulty levels |
+| Apps | [https://github.com/mannaandpoem/OpenManus](https://github.com/mannaandpoem/OpenManus) | Open-source Artificial General Intelligence |
 
 
 
