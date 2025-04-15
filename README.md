@@ -91,6 +91,7 @@
 | RAG | [https://docs.llamaindex.ai/en/stable/](https://docs.llamaindex.ai/en/stable/) | LlamaIndex simplifies data integration for LLMs and enables efficient search for RAG applications. |
 | RAG | [https://aws.amazon.com/what-is/retrieval-augmented-generation/](https://aws.amazon.com/what-is/retrieval-augmented-generation/) | AWS Introduction to RAG |
 | RAG | [https://arxiv.org/pdf/2312.10997v3.pdf](https://arxiv.org/pdf/2312.10997v3.pdf) | Retrieval-Augmented Generation for Large Language Models: A Survey |
+| RAG | [https://medium.com/gitconnected/testing-18-rag-techniques-to-find-the-best-094d166af27f](https://medium.com/gitconnected/testing-18-rag-techniques-to-find-the-best-094d166af27f) | Testing 18 RAG Techniques to Find the Best |
 
 
 ### Agents
