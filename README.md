@@ -67,6 +67,7 @@
 | Prompt engineering | [https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file](https://github.com/dair-ai/Prompt-Engineering-Guide?tab=readme-ov-file) | Prompt engineering guide |
 | Prompt engineering | [https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api) | Best practices for prompt engineering with the OpenAI API |
 | Prompt engineering | [https://medium.com/@fareedkhandev/prompt-engineering-complete-guide-2968776f0431](https://medium.com/@fareedkhandev/prompt-engineering-complete-guide-2968776f0431) | Alternative prompt engineering guide |
+| Prompt engineering | [https://www.promptingguide.ai/introduction/basics] (https://www.promptingguide.ai/introduction/basics) | A Basics of Prompting Guide (TianluZhu)
 
 ### RAG
 
@@ -109,7 +110,7 @@
 | Agents | [https://www.letta.com/blog/ai-agents-stack](https://www.letta.com/blog/ai-agents-stack) | The Agents Stack |
 | Agents | [https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP](https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP) | Demystifying AI Agents: A Guide for Beginners |
 | Agents | [https://arxiv.org/pdf/2308.08155](https://arxiv.org/pdf/2308.08155) | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation |
-
+| Agents | [https://github.com/NVIDIA/GenerativeAIExamples/tree/main#end-to-end-rag-examples-and-notebooks] (https://github.com/NVIDIA/GenerativeAIExamples/tree/main#end-to-end-rag-examples-and-notebooks) | GenAI and Agents Examples with NVIDIA (TianluZhu)
 
 ### Guardrails
 
