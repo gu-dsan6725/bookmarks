@@ -27,6 +27,7 @@ This paper reminds us that excellence is not about talent or superhuman abilitie
 ## Table of Contents
 
 1. [Gen-AI](#gen-ai)
+   - [Short Form Video Content](#short-form-video-content)
    - [LLM Basics](#llm-basics)
    - [Prompt Engineering](#prompt-engineering)
    - [RAG](#rag)
@@ -42,6 +43,12 @@ This paper reminds us that excellence is not about talent or superhuman abilitie
 1. [License](#license)
 
 ## Gen-AI
+
+### Short Form Video Content
+
+| Category  | Link  | Description  |
+|:----------|:----------|:----------|
+| GPU Optimization | [https://x.com/Hesamation/status/2009012165123195342](https://x.com/Hesamation/status/2009012165123195342) | Robert Nishihara explains 5 GPU optimization methods for LLMs in under 7 min |
 
 ### LLM Basics
 
