@@ -7,12 +7,22 @@
 
   <p>
     <a href="#gen-ai">Gen-AI</a> •
-    <a href="#others">Others</a> •    
+    <a href="#others">Others</a> •
     <a href="#significant-papers">Significant Papers</a> •
     <a href="#contributing">Contributing</a> •
     <a href="#license">License</a>
 </p>
 </div>
+
+## Required Reading: The Mundanity of Excellence
+
+While we live and breathe AI in this course, it is important to step back and reflect on something timeless, something that will not change with AI. Read this paper:
+
+[The Mundanity of Excellence: An Ethnographic Report on Stratification and Olympic Swimmers](https://academics.hamilton.edu/documents/themundanityofexcellence.pdf)
+
+This paper reminds us that excellence is not about talent or superhuman abilities. It is about doing small things consistently well. This applies to mastering AI just as much as it does to swimming.
+
+---
 
 ## Table of Contents
 
