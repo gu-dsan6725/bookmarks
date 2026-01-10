@@ -48,7 +48,7 @@ This paper reminds us that excellence is not about talent or superhuman abilitie
 
 | Category  | Link  | Description  |
 |:----------|:----------|:----------|
-| GPU Optimization | [https://x.com/Hesamation/status/2009012165123195342](https://x.com/Hesamation/status/2009012165123195342) | Robert Nishihara explains 5 GPU optimization methods while walking NYC streets in under 7 min |
+| GPU Optimization | [https://x.com/Hesamation/status/2009012165123195342](https://x.com/Hesamation/status/2009012165123195342) | [Robert Nishihara](https://www.robertnishihara.com/) explains 5 GPU optimization methods while walking NYC streets in under 7 min |
 
 ### LLM Basics
 
