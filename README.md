@@ -26,21 +26,23 @@ This paper reminds us that excellence is not about talent or superhuman abilitie
 
 ## Table of Contents
 
-1. [Gen-AI](#gen-ai)
-   - [Short Form Video Content](#short-form-video-content)
-   - [LLM Basics](#llm-basics)
-   - [Prompt Engineering](#prompt-engineering)
-   - [RAG](#rag)
-   - [Agents](#agents)
-   - [Guardrails](#guardrails)
-   - [Benchmarking](#benchmarking)
-   - [Fine-tuning](#fine-tuning)
-   - [Responsible AI](#responsible-ai)
-   - [Apps](#apps)
-1. [Others](#others)
-1. [Significant Papers](#significant-papers)
-1. [Contributing](#contributing)
-1. [License](#license)
+- [Required Reading: The Mundanity of Excellence](#required-reading-the-mundanity-of-excellence)
+- [Table of Contents](#table-of-contents)
+- [Gen-AI](#gen-ai)
+  - [Short Form Video Content](#short-form-video-content)
+  - [LLM Basics](#llm-basics)
+  - [Prompt engineering](#prompt-engineering)
+  - [RAG](#rag)
+  - [Agents](#agents)
+  - [Guardrails](#guardrails)
+  - [Benchmarking](#benchmarking)
+  - [Fine-tuning](#fine-tuning)
+  - [Responsible AI](#responsible-ai)
+  - [Apps](#apps)
+- [Others](#others)
+- [Significant Papers](#significant-papers)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Gen-AI
 
@@ -129,6 +131,8 @@ This paper reminds us that excellence is not about talent or superhuman abilitie
 | Agents | [https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP](https://www.mongodb.com/pt-br/library/resources/ai-agents?x=inokiP) | Demystifying AI Agents: A Guide for Beginners |
 | Agents | [https://arxiv.org/pdf/2308.08155](https://arxiv.org/pdf/2308.08155) | AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation |
 | Agents | [https://github.com/NVIDIA/GenerativeAIExamples/tree/main#end-to-end-rag-examples-and-notebooks] (https://github.com/NVIDIA/GenerativeAIExamples/tree/main#end-to-end-rag-examples-and-notebooks) | GenAI and Agents Examples with NVIDIA (TianluZhu)
+| Agents | [https://developer.nvidia.com/blog/building-autonomous-vehicles-that-reason-with-nvidia-alpamayo/](https://developer.nvidia.com/blog/building-autonomous-vehicles-that-reason-with-nvidia-alpamayo/) | Generative VLA models for reasoning-based autonomous driving |
+
 
 ### Guardrails
 
