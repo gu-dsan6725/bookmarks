@@ -2,8 +2,6 @@
 
 This file consolidates contributions from open pull requests for the Spring 2026 semester. These links were submitted by DSAN-6725 course participants and are preserved here for reference.
 
-**Note:** The main [README.md](../README.md) remains the authoritative source. This file captures community contributions that could not be merged due to conflicts.
-
 ---
 
 ## Agents
