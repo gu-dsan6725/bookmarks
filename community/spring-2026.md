@@ -12,8 +12,4 @@ This file consolidates contributions from open pull requests for the Spring 2026
 
 ---
 
-## Pull Request Sources
 
-| PR # | Title | Author |
-|:-----|:------|:-------|
-| #64 | Updated Generative VLA models for reasoning-based autonomous driving | siruwuu |
