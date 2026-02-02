@@ -9,7 +9,7 @@ This file consolidates contributions from open pull requests for the Spring 2026
 | Category  | Link  | Description  | Contributor |
 |:----------|:----------|:----------|:----------|
 | Agents | [https://developer.nvidia.com/blog/building-autonomous-vehicles-that-reason-with-nvidia-alpamayo/](https://developer.nvidia.com/blog/building-autonomous-vehicles-that-reason-with-nvidia-alpamayo/) | Generative VLA models for reasoning-based autonomous driving | siruwuu |
-
+| RAG | [https://arxiv.org/pdf/2601.21340](https://arxiv.org/pdf/2601.21340) | Enhancing RAG for Long-Horizon Electronic Health Records | alisonmanna |
 ---
 
 
