@@ -12,4 +12,10 @@ This file consolidates contributions from open pull requests for the Spring 2026
 
 ---
 
+## Benchmarking
 
+| Category  | Link  | Description  | Contributor |
+|:----------|:----------|:----------|:----------|
+| Benchmarking | [https://github.com/Tencent-Hunyuan/CL-bench/blob/main/clbench-paper.pdf](https://github.com/Tencent-Hunyuan/CL-bench/blob/main/clbench-paper.pdf/) | CL-BENCH: A BENCHMARK FOR CONTEXT LEARNING | PENG-JY |
+
+---
