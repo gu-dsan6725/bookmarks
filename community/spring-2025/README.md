@@ -2,7 +2,7 @@
 
 This file consolidates contributions from open pull requests that had merge conflicts with the main README.md. These links were submitted by DSAN-6725 course participants and are preserved here for reference.
 
-**Note:** The main [README.md](../README.md) remains the authoritative source. This file captures community contributions that could not be merged due to conflicts.
+**Note:** The main [README.md](../../README.md) remains the authoritative source. This file captures community contributions that could not be merged due to conflicts.
 
 ---
 

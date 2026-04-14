@@ -213,11 +213,11 @@ This paper reminds us that excellence is not about talent or superhuman abilitie
 
 ## Contributing
 
-Fork this repo and submit a PR to contribute. Your PR should only contain your update to the relevant markdown file in the [`community/`](community/) folder (e.g. `community/spring-2026.md` for the current semester). Do not include any other changes in the PR.
+Fork this repo and submit a PR to contribute. Your PR should only contain your update to the relevant file in the [`community/`](community/) folder (e.g. `community/spring-2026/README.md` for the current semester). Do not include any other changes in the PR.
 
 Follow these instructions while making contributions:
 
-1. Find the relevant semester file in the [`community/`](community/) folder and add your contribution there.
+1. Find the relevant semester folder in the [`community/`](community/) folder and add your contribution to the `README.md` file there.
 1. Add your contribution as a line in the appropriate markdown table. Make sure to view the rendered file to confirm that the table formatting is not broken.
 1. Make sure that you put an appropriate value in the `Category` field and useful information in the `Description` field (the description should not exceed 10 words).
 1. If you are using an existing `Category` then add your line just after the last line in that `Category`'s table. If you want to add a new category then create a new section for it similar to the other sections.
