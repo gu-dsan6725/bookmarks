@@ -19,4 +19,10 @@ This file consolidates contributions from open pull requests for the Spring 2026
 |:----------|:----------|:----------|:----------|
 | Benchmarking | [https://github.com/Tencent-Hunyuan/CL-bench/blob/main/clbench-paper.pdf](https://github.com/Tencent-Hunyuan/CL-bench/blob/main/clbench-paper.pdf/) | CL-BENCH: A BENCHMARK FOR CONTEXT LEARNING | PENG-JY |
 
+## LLM Basics
+
+| Category  | Link  | Description  | Contributor |
+|:----------|:----------|:----------|:----------|
+| LLM Basics | [https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/](https://research.google.com/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) | TurboQuant: 6× KV cache compression with zero accuracy loss | Binghui Ni, Siyu Hu |
+
 ---
